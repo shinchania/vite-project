@@ -1,6 +1,6 @@
 type Props = {
   onBack: () => void;
-};
+};//TypeScriptでReactコンポーネントのprops（受け取る引数）の型を定義している
 
 export default function Record({ onBack }: Props) {
   return (

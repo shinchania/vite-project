@@ -1,6 +1,7 @@
 # vite-project
 
 React + TypeScript + Vite を使った学習用プロジェクトです。
+運動記録アプリを制作中です。
 
 ## 使用技術
 - React
